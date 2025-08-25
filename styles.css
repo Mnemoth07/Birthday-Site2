@@ -47,7 +47,7 @@ h1, h2, h4 {
 
 .gift-img {
     margin: 0 auto;
-    background-image: url("images/gift.jpg");
+    background-image: url("gift.jpg");
     background-size: cover;
     width: 400px;
     height: 400px;
@@ -56,19 +56,19 @@ h1, h2, h4 {
 }
 
 #happy-img:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("happy.gif");
 }
 
 #hot-img:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("hot.gif");
 }
 
 #genius-img:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("genius.gif");
 }
 
 #badass-img:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("badass.gif");
 }
 
 #cheers-img {
@@ -76,7 +76,7 @@ h1, h2, h4 {
 }
 
 #cheers-img:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("cheers.gif");
 }
 
 .gift-title {
